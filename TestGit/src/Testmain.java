@@ -1,5 +1,8 @@
 
 public class Testmain {
 
-	main
+	main()
+	{
+		
+	}
 }
