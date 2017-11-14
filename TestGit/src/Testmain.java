@@ -1,7 +1,7 @@
 
 public class Testmain {
 
-	main()
+	public static void main(String[] arg)
 	{
 		
 	}
