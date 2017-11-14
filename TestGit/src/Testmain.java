@@ -1,5 +1,5 @@
 
 public class Testmain {
 
-	mainerf
+	main
 }
